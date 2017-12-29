@@ -2,7 +2,7 @@
 cDMDc [1] is a novel framework for compressive system identification unifying two recent innovations that extend DMD to systems with actuation [2] and systems with heavily subsampled measurements [3]. Using cDMDc it is possible to identify a low-order model from limited input–output data and reconstruct the associated full-state dynamic modes with compressed sensing, adding interpretability to the state of the reduced-order model. Moreover, when full-state data is available, it is possible to dramatically accelerate downstream computations by first compressing the data. 
 
 The publication "Dynamic mode decomposition for compressive system identification"
-by Z. Bai, E, Kaiser, J. L. Proctor, J. N. Kutz and S. L. Brunton. is available on [arXiv](https://arxiv.org/abs/....).
+by Z. Bai, E, Kaiser, J. L. Proctor, J. N. Kutz and S. L. Brunton. is available on [arXiv](https://arxiv.org/abs/1710.07737).
 
 ## Installation
 
